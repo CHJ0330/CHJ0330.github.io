@@ -1,1 +1,30 @@
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>爬山景點</title>
+        <style>
+            header, footer {display:block; clear:both; padding:5px; text-align:center}
+            nav {display:block; float:left; width:20%; height:50%; background:yellow; padding:5px}
+            article {display:block; float:right; width:80%; height:50%; background:rgb(109, 233, 185); padding:5px}
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1 style="color:gray">爬山景點</h1>
+        </header>
+        <nav>
+            <u1>
+                <li>玉山</a></li>
+                <li>雪山</a></li>
+                <li>合歡山</a></li>
+            </u1>
+        </nav>
+        <article>
+            <p>玉山標高3952m,雪山標高3886m,合歡山標高3422m</p>
+        </article>
+        <footer>
+            <p><small>all rights reserved</small></p>
+        </footer>
+    </body>
+</html>
